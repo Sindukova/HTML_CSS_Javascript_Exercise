@@ -75,10 +75,9 @@
 body{
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-image:url(img/truecoders-background.png);
+  background-image:url(img/TC_background.png);
   color: white;
 }
-
 
 .column4 {
   float: left;
